@@ -12,7 +12,7 @@
 
  ### 1. Clone the Application
  
-     git clone https://github.com/coma123/Spring-Boot-Blog-REST-API.git
+     git clone https://github.com/chunJyi/PageAndSortUsingCriteriaQuery.git
 
  ### 2. Create PostgreSQL database
  
